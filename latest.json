@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.6",
+  "versionCode": 7,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
   "size": 740529,
-  "sha256": "5fbe885ee63f22520b9081068ea67450146b59f047ee1ce3eacba5f19b8fcd7d",
-  "notes": "Interface nova, pensada para o telemóvel (Galaxy S22)"
+  "sha256": "2d86ca363d3566fd0a7f95ec21b9b65b27dc7274797b8cbb203de3973145d929",
+  "notes": "Acento azul em vez de cobre"
 }
