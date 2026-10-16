@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2",
+  "versionCode": 3,
+  "versionName": "1.3",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 722121,
-  "sha256": "8840d8c76bf0e34651950d567c75324b585fc74032ea3b6d0e3492c18ed2c3e7",
-  "notes": "README: telemóvel e progresso"
+  "size": 729933,
+  "sha256": "6952d62cf6dc548505791f51a027f157d073628f14043732c41c6c7af969b6df",
+  "notes": "Sincronização pela nuvem em vez de ligação direta"
 }
