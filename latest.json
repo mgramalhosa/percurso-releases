@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9",
+  "versionCode": 10,
+  "versionName": "1.10",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 800478,
-  "sha256": "a9bd2b8732302d2a205bdb4e207a44b8a1739931ed4c2aa21e46f7af7c606887",
-  "notes": "Telemóvel: biblioteca dentro do APK (livros reconhecidos sem sincronizar)"
+  "size": 801930,
+  "sha256": "0e7b77a9e9d9ac4f17824017629893f1b947c226e02df1f2671a1232e30bd91b",
+  "notes": "Teoria como aula interativa e personalizada"
 }
