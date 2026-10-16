@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
+  "versionCode": 5,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 729909,
-  "sha256": "933f834e1f05d3a24e33edb43ca85d0ac1d367533e5ac9fc8bd76cc888bf2026",
-  "notes": "APK: só HTTPS (a sincronização passa pela nuvem)"
+  "size": 732633,
+  "sha256": "80b924474773233eab34bbf9878b1537974f0242a9d8055cb04e808a6df1a437",
+  "notes": "Telemóvel: livros numa pasta escolhida (reconhecidos por tamanho ou nome)"
 }
