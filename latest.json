@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
+  "versionCode": 6,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 732633,
-  "sha256": "80b924474773233eab34bbf9878b1537974f0242a9d8055cb04e808a6df1a437",
-  "notes": "Telemóvel: livros numa pasta escolhida (reconhecidos por tamanho ou nome)"
+  "size": 740529,
+  "sha256": "5fbe885ee63f22520b9081068ea67450146b59f047ee1ce3eacba5f19b8fcd7d",
+  "notes": "Interface nova, pensada para o telemóvel (Galaxy S22)"
 }
