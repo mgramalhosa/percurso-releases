@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
+  "versionCode": 8,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 740529,
-  "sha256": "2d86ca363d3566fd0a7f95ec21b9b65b27dc7274797b8cbb203de3973145d929",
-  "notes": "Acento azul em vez de cobre"
+  "size": 740913,
+  "sha256": "f037708458ce394bb5007e8272a5b1f1f944ac2a7f04f67b85c1ef18bbeb0228",
+  "notes": "Ecrã inteiro: barras do Android escondidas, aparecem ao deslizar da borda"
 }
