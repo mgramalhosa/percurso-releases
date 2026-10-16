@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
+  "versionCode": 9,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 740913,
-  "sha256": "f037708458ce394bb5007e8272a5b1f1f944ac2a7f04f67b85c1ef18bbeb0228",
-  "notes": "Ecrã inteiro: barras do Android escondidas, aparecem ao deslizar da borda"
+  "size": 800478,
+  "sha256": "a9bd2b8732302d2a205bdb4e207a44b8a1739931ed4c2aa21e46f7af7c606887",
+  "notes": "Telemóvel: biblioteca dentro do APK (livros reconhecidos sem sincronizar)"
 }
