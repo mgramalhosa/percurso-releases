@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.10",
+  "versionCode": 11,
+  "versionName": "1.11",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 801930,
-  "sha256": "0e7b77a9e9d9ac4f17824017629893f1b947c226e02df1f2671a1232e30bd91b",
-  "notes": "Teoria como aula interativa e personalizada"
+  "size": 809218,
+  "sha256": "c870d7ae4b5b8c332dd429f8ceaadfef293b05e1339f9f72aedc56c18cf1a35f",
+  "notes": "Aula em conversa com o tutor; Ollama no próprio telemóvel"
 }
