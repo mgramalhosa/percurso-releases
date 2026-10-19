@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.13",
+  "versionCode": 14,
+  "versionName": "1.14",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 810550,
-  "sha256": "d25d9dd65a521eee9162c5cd64cf282fe2b554be8891bd223fe37d0ea5962904",
-  "notes": "Leitura dá lugar a Teoria aprofundada com o tutor"
+  "size": 839742,
+  "sha256": "c48edbbcc5e40cec8a3fff39b92e8ecce88e304fd0338bbeda94196f860dd3d1",
+  "notes": "Imagens nas aulas: figuras dos livros, gráficos e Wikimedia Commons"
 }
