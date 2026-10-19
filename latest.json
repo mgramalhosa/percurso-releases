@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
+  "versionCode": 13,
+  "versionName": "1.13",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 809666,
-  "sha256": "22ee6364e54cbd37245476ab1bf54887b36382958758c400a0d6fc8a3f3f7c38",
-  "notes": "Tutor mais rápido: uma chamada por resposta, modelo sempre carregado"
+  "size": 810550,
+  "sha256": "d25d9dd65a521eee9162c5cd64cf282fe2b554be8891bd223fe37d0ea5962904",
+  "notes": "Leitura dá lugar a Teoria aprofundada com o tutor"
 }
