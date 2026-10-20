@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.16",
+  "versionCode": 17,
+  "versionName": "1.17",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 860044,
-  "sha256": "fbd2e638562f46b3ad3dd1d949ffc933d46aeafcde0bc8fe7d928c38679da42b",
-  "notes": "Diagnóstico de conhecimentos: dispensa a teoria que já sabes"
+  "size": 863456,
+  "sha256": "0e37525607672c4e7a94dbda03bbdadb2dc385d04c1a1442d9e73281f37bbb1f",
+  "notes": "Programação como aula com o tutor, com editor de Python na própria aula"
 }
