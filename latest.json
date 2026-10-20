@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.14",
+  "versionCode": 15,
+  "versionName": "1.15",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 839742,
-  "sha256": "c48edbbcc5e40cec8a3fff39b92e8ecce88e304fd0338bbeda94196f860dd3d1",
-  "notes": "Imagens nas aulas: figuras dos livros, gráficos e Wikimedia Commons"
+  "size": 853042,
+  "sha256": "f457e73fb3d96c51e5907e4a82027544fd414c4440b67bdafba858d74454f887",
+  "notes": "Aulas online com guia passo a passo por semana"
 }
