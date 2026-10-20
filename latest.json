@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.15",
+  "versionCode": 16,
+  "versionName": "1.16",
   "apkUrl": "https://raw.githubusercontent.com/mgramalhosa/percurso-releases/main/Percurso.apk",
-  "size": 853042,
-  "sha256": "f457e73fb3d96c51e5907e4a82027544fd414c4440b67bdafba858d74454f887",
-  "notes": "Aulas online com guia passo a passo por semana"
+  "size": 860044,
+  "sha256": "fbd2e638562f46b3ad3dd1d949ffc933d46aeafcde0bc8fe7d928c38679da42b",
+  "notes": "Diagnóstico de conhecimentos: dispensa a teoria que já sabes"
 }
